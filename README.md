@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Gouiaa</h1>
 <h3 align="center">I am currently a Software engineering Student at ESPRIT i had a telecommunication degree from ENET'Com . I am a passionate Frontend developer have +1 year experience working with flutter </h3>
-<h3 align="center">I enjoy creating helpful content and writing articles related to my field of work. </h3>
+<h3 align="center">I enjoy creating helpful content and writing articles relevant to my profession. Feel free to explore my Instagram page and visit my Medium account. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedg99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedg99" /> </p>
 
