@@ -17,7 +17,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,java,html,css,dart,ts,js,vscode,linux,arduino,git,github,githubactions,mysql&perline=14)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,java,html,css,dart,ts,js,vscode,git,github,githubactions,mysql&perline=14)]()
  </p>
 <p align="left">
 
