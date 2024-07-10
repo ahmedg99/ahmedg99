@@ -13,6 +13,14 @@
 ](https://medium.com/@ahmed.gouiaa/demystifying-webpack-1b5042c42f14)
 <!-- BLOG-POST-LIST:END -->
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Stack
+
+<p align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=bash,java,html,css,dart,ts,js,vscode,linux,arduino,git,github,githubactions,mysql&perline=14)]()
+ </p>
+<p align="left">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedg99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedg99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedg99" alt="ahmedg99" /></a> </p>
