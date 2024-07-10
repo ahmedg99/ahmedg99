@@ -6,6 +6,13 @@
 <h3 align="center">I am currently a Software engineering Student at ESPRIT i had a telecommunication degree from ENET'Com . I am a passionate Frontend developer have +1 year experience working with flutter </h3>
 <h3 align="center">I enjoy creating helpful content and writing articles relevant to my profession. Feel free to explore my Instagram page and visit my Medium account. </h3>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="25" height="25" /> Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Angular Spring Boot pagination Component](https://medium.com/@ahmed.gouiaa/angular-spring-boot-paginator-component-e16189e6d674)
+- [Unveiling the Magic of Webpack
+](https://medium.com/@ahmed.gouiaa/demystifying-webpack-1b5042c42f14)
+<!-- BLOG-POST-LIST:END -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedg99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedg99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedg99" alt="ahmedg99" /></a> </p>
