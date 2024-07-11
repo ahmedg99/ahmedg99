@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Ahmed Gouiaa</h1>
+![Header](./header.png)
+
+<!--<h1 align="center">Hi 👋, I'm Ahmed Gouiaa</h1>-->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=02100A&random=false&width=435&lines=Hey+!+It's+Ahmed+Gouiaa+...""></a>
 </p>
