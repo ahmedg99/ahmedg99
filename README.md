@@ -1,5 +1,5 @@
 
-![Header](./header.png)
+![Header](./header-git.png)
 
 <!--<h1 align="center">Hi 👋, I'm Ahmed Gouiaa</h1>-->
 <p align="center">
