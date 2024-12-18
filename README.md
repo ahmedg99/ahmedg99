@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on **mobile application using flutter and spring boot**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently seeking a junior software engineer position
 
 - 📫 How to reach me **ahmed.gouiaa@esprit.tn**
 
